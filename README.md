@@ -8,7 +8,9 @@ No original background image, external image API or backend runtime is required.
 
 Requires Ink OS and its selected CLI connection. Node.js 24 or later.
 
-```
+```sh
+git clone https://github.com/siliconjungle/ink-app-depth-light.git
+cd ink-app-depth-light
 npm test
 npm run check
 ink-os deploy .
