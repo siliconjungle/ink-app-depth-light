@@ -1,0 +1,1 @@
+{"name":"@ink-os/app-depth-light","version":"0.1.0","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","check":"node --check web/app.mjs && node --check web/lighting.mjs"},"engines":{"node":">=24"},"license":"MIT"}

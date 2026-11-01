@@ -1,0 +1,5 @@
+{
+  "slug":"depth-light","title":"Depth Light","directory":"web","entry":"index.html",
+  "desktop":{"entry":"depth-light","icon":{"svg":"web/icon.svg"},"context":"self","fileTypes":["image/*"],"dropTypes":["image/*"],"window":{"width":1060,"height":800}},
+  "capabilities":["world.read","world.write","desktop.open"]
+}
