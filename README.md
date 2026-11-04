@@ -41,3 +41,7 @@ The app accepts a launch handoff with `imageId` and `depthId` (Ink file identiti
 `npm test` checks moving-light response, depth slopes, inversion, colour, original comparison, preserved alpha, unchanged source pixels and input validation. The Ink SDK/styles are copied from the existing MIT-licensed Flip & Rotate app; font notices remain bundled.
 
 MIT. Third-party components retain their own notices.
+
+## Quick preview
+
+Displays supported files without starting the normal editing workflow. Ink OS can select this reader through `desktop.preview.fileTypes`, independently of Open with. Space opens the temporary preview from a selection; Escape or Space dismisses it, and arrow keys browse the supplied item order.
