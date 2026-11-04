@@ -18,6 +18,11 @@
     "window": {
       "width": 1060,
       "height": 800
+    },
+    "preview": {
+      "fileTypes": [
+        "image/*"
+      ]
     }
   },
   "capabilities": [
